@@ -3,5 +3,5 @@
     <br>
     <br>
     <br>
-    <livewire:clock />
+    <livewire:notificaciones />
 </div>

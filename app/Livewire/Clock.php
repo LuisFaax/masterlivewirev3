@@ -18,6 +18,9 @@ class Clock extends Component
     }
 
 
+
+
+
     function tick()
     {
         $this->time = now()->format('H:i:s');

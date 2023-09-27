@@ -1,0 +1,15 @@
+<div>
+    {{-- [quote] --}}
+
+
+    <script>
+            document.addEventListener('livewire:initialized', function(){
+                @this.on('noty', (event) => {
+                    console.log(event)
+                })
+            })
+    </script>
+
+
+
+</div>
