@@ -4,4 +4,5 @@
     <br>
     <br>
     <livewire:notificaciones />
+
 </div>
